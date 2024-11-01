@@ -28,7 +28,7 @@ function App() {
       <div className="flex justify-center">
         {/* <div className="w-full max-w-2xl"> */}
         <iframe
-          src="https://www.youtube.com/embed/Yrt50F3oIz0?si=oWUzRvg4s8s5Em2x"
+          src="https://www.youtube.com/embed/XBPfNLtvNck?si=2eezHnEeEoVPnWwS"
           title="YouTube video player"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowFullScreen
